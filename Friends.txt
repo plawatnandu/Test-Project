@@ -1,0 +1,138 @@
+{
+  "requestStatus": {
+    "status": "OK",
+    "responseCode": 200,
+    "title": "SUCCESS",
+    "message": "Facebook friend list get successfully"
+  },
+  "friends": [
+    {
+      "userId": 528,
+      "name": "Ravi Singh",
+      "contact": "",
+      "imageId": "266",
+      "coin": "4924600",
+      "totalGame": "123",
+      "onlineOffline": "Offline",
+      "isFollowBack": false,
+      "status": "ACCEPT"
+    },
+    {
+      "userId": 528,
+      "name": "Ravi Singh",
+      "contact": "",
+      "imageId": "266",
+      "totalGame": "23",
+      "onlineOffline": "Online",
+      "coin": "4924600",
+      "isFollowBack": false,
+      "status": "ACCEPT"
+    },
+    {
+      "userId": 528,
+      "name": "Ravi Singh",
+      "contact": "",
+      "imageId": "266",
+      "totalGame": "103",
+      "onlineOffline": "Online",
+      "coin": "4924600",
+      "isFollowBack": false,
+      "status": "ACCEPT"
+    },
+    {
+      "userId": 558,
+      "name": "Ravi2 Singh",
+      "contact": "",
+      "imageId": "266",
+      "coin": "4924600",
+      "isFollowBack": true,
+      "onlineOffline": "Offline",
+      "status": "ACCEPT"
+    },
+    {
+      "userId": 548,
+      "name": "Ravi3 Singh",
+      "contact": "",
+      "imageId": "266",
+      "totalGame": "113",
+      "onlineOffline": "Online",
+      "coin": "4924600",
+      "isFollowBack": false,
+      "status": "ACCEPT"
+    },
+    {
+      "userId": 518,
+      "name": "Ravi4 Singh",
+      "contact": "",
+      "imageId": "266",
+      "onlineOffline": "Online",
+      "coin": "4924600",
+      "totalGame": "113",
+      "isFollowBack": false,
+      "status": "ACCEPT "
+    }
+  ],
+  "friendsRequest": [
+    {
+      "userId": 297,
+      "name": "Deepak",
+      "contact": "",
+      "imageId": "1",
+      "coin": "72671",
+      "isFollowBack": false,
+      "status": "PENDING",
+      "totalRequestTime": ""
+    },
+    {
+      "userId": 2197,
+      "name": "Deepak1",
+      "contact": "",
+      "imageId": "1",
+      "coin": "72671",
+      "isFollowBack": false,
+      "status": "PENDING",
+      "totalRequestTime": ""
+    },
+    {
+      "userId": 522,
+      "name": "GpkST3870",
+      "contact": "",
+      "imageId": "18",
+      "coin": "32150",
+      "isFollowBack": true,
+      "status": "NEW_REQUEST",
+      "totalRequestTime": "54 Minutes ago"
+    },
+    {
+      "userId": 592,
+      "name": "pk1",
+      "contact": "",
+      "imageId": "18",
+      "coin": "32150",
+      "isFollowBack": true,
+      "status": "NEW_REQUEST",
+      "totalRequestTime": "14 Minutes ago"
+    },
+    {
+      "userId": 502,
+      "name": "Himanshu",
+      "contact": "",
+      "imageId": "18",
+      "coin": "32150",
+      "isFollowBack": true,
+      "status": "NEW_REQUEST",
+      "totalRequestTime": "3 Minutes ago"
+    },
+    {
+      "userId": 9893,
+      "name": "Priyanka",
+      "contact": "",
+      "imageId": "18",
+      "coin": "32150",
+      "isFollowBack": true,
+      "status": "NEW_REQUEST",
+      "totalRequestTime": "32 Minutes ago"
+    }
+  ],
+  "serverTime": "2020-07-13 06:30:16 +00:00"
+}
