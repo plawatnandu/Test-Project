@@ -1,0 +1,361 @@
+{
+  "requestStatus": {
+    "status": "OK",
+    "responseCode": 200,
+    "title": "SUCCESS",
+    "message": "Rank list get successfully"
+  },
+  "rankingList": [
+    {
+      "id": 542,
+      "name": "Rita Singh",
+      "imageId": "297",
+      "coin": "256600",
+      "rank": 1
+    },
+    {
+      "id": 197,
+      "name": "Daisy",
+      "imageId": "297",
+      "coin": "184400",
+      "rank": 2
+    },
+    {
+      "id": 175,
+      "name": "Guest3173",
+      "imageId": "7",
+      "coin": "133920",
+      "rank": 3
+    },
+    {
+      "id": 196,
+      "name": "Guest 1",
+      "imageId": "0",
+      "coin": "117500",
+      "rank": 4
+    },
+    {
+      "id": 554,
+      "name": "GUEST408",
+      "imageId": "8",
+      "coin": "44500",
+      "rank": 5
+    },
+    {
+      "id": 601,
+      "name": "Anika",
+      "imageId": "6",
+      "coin": "39150",
+      "rank": 6
+    },
+    {
+      "id": 341,
+      "name": "Guest1353",
+      "imageId": "0",
+      "coin": "36050",
+      "rank": 7
+    },
+    {
+      "id": 174,
+      "name": "Guest1435",
+      "imageId": "0",
+      "coin": "29920",
+      "rank": 8
+    },
+    {
+      "id": 188,
+      "name": "Vikas Singh",
+      "imageId": "297",
+      "coin": "29450",
+      "rank": 9
+    },
+    {
+      "id": 562,
+      "name": "GUEST3870",
+      "imageId": "18",
+      "coin": "21300",
+      "rank": 10
+    },
+    {
+      "id": 504,
+      "name": "Jaipal",
+      "imageId": "297",
+      "coin": "20950",
+      "rank": 11
+    },
+    {
+      "id": 220,
+      "name": "Pankaj Kumar Giri",
+      "imageId": "5",
+      "coin": "19750",
+      "rank": 12
+    },
+    {
+      "id": 339,
+      "name": "Pankaj Kr. Giri",
+      "imageId": "5",
+      "coin": "17950",
+      "rank": 13
+    },
+    {
+      "id": 183,
+      "name": "Sanjay",
+      "imageId": "297",
+      "coin": "16100",
+      "rank": 14
+    },
+    {
+      "id": 561,
+      "name": "Guest7777",
+      "imageId": "297",
+      "coin": "16000",
+      "rank": 15
+    },
+    {
+      "id": 405,
+      "name": "Mukesh",
+      "imageId": "7",
+      "coin": "15500",
+      "rank": 16
+    },
+    {
+      "id": 287,
+      "name": "Hariom",
+      "imageId": "1",
+      "coin": "14450",
+      "rank": 17
+    },
+    {
+      "id": 244,
+      "name": "Ayaan",
+      "imageId": "297",
+      "coin": "13800",
+      "rank": 18
+    },
+    {
+      "id": 193,
+      "name": "Raj",
+      "imageId": "3",
+      "coin": "12850",
+      "rank": 19
+    },
+    {
+      "id": 325,
+      "name": "Arti",
+      "imageId": "9",
+      "coin": "12300",
+      "rank": 20
+    },
+    {
+      "id": 711,
+      "name": "Mohammad Parvez",
+      "imageId": "297",
+      "coin": "12000",
+      "rank": 21
+    },
+    {
+      "id": 263,
+      "name": "Guest6254",
+      "imageId": "7",
+      "coin": "11800",
+      "rank": 22
+    },
+    {
+      "id": 303,
+      "name": "Mehul",
+      "imageId": "7",
+      "coin": "10550",
+      "rank": 23
+    },
+    {
+      "id": 531,
+      "name": "Karan Singh",
+      "imageId": "14",
+      "coin": "10350",
+      "rank": 24
+    },
+    {
+      "id": 272,
+      "name": "Binita",
+      "imageId": "6",
+      "coin": "10300",
+      "rank": 25
+    },
+    {
+      "id": 468,
+      "name": "Ciara",
+      "imageId": "297",
+      "coin": "10000",
+      "rank": 26
+    },
+    {
+      "id": 602,
+      "name": "GUEST1664",
+      "imageId": "22",
+      "coin": "10000",
+      "rank": 27
+    },
+    {
+      "id": 566,
+      "name": "Aayush",
+      "imageId": "5",
+      "coin": "10000",
+      "rank": 28
+    },
+    {
+      "id": 262,
+      "name": "Kavita",
+      "imageId": "6",
+      "coin": "9850",
+      "rank": 29
+    },
+    {
+      "id": 260,
+      "name": "Aish",
+      "imageId": "4",
+      "coin": "9650",
+      "rank": 30
+    },
+    {
+      "id": 267,
+      "name": "Akhil",
+      "imageId": "297",
+      "coin": "9500",
+      "rank": 31
+    },
+    {
+      "id": 255,
+      "name": "Wajiha",
+      "imageId": "281",
+      "coin": "9500",
+      "rank": 32
+    },
+    {
+      "id": 465,
+      "name": "Nilmini",
+      "imageId": "297",
+      "coin": "9200",
+      "rank": 33
+    },
+    {
+      "id": 237,
+      "name": "Thomas",
+      "imageId": "1",
+      "coin": "9150",
+      "rank": 34
+    },
+    {
+      "id": 280,
+      "name": "Niharika",
+      "imageId": "297",
+      "coin": "9100",
+      "rank": 35
+    },
+    {
+      "id": 249,
+      "name": "Guest7568",
+      "imageId": "3",
+      "coin": "8900",
+      "rank": 36
+    },
+    {
+      "id": 330,
+      "name": "Guest6472",
+      "imageId": "0",
+      "coin": "8900",
+      "rank": 37
+    },
+    {
+      "id": 278,
+      "name": "Namrata",
+      "imageId": "2",
+      "coin": "8850",
+      "rank": 38
+    },
+    {
+      "id": 469,
+      "name": "Guest3256",
+      "imageId": "2",
+      "coin": "8800",
+      "rank": 39
+    },
+    {
+      "id": 181,
+      "name": "Rita",
+      "imageId": "2",
+      "coin": "8700",
+      "rank": 40
+    },
+    {
+      "id": 289,
+      "name": "Eva",
+      "imageId": "3",
+      "coin": "8600",
+      "rank": 41
+    },
+    {
+      "id": 179,
+      "name": "Narendra",
+      "imageId": "3",
+      "coin": "8250",
+      "rank": 42
+    },
+    {
+      "id": 254,
+      "name": "Shazia",
+      "imageId": "280",
+      "coin": "8250",
+      "rank": 43
+    },
+    {
+      "id": 271,
+      "name": "Amarjit",
+      "imageId": "5",
+      "coin": "8200",
+      "rank": 44
+    },
+    {
+      "id": 429,
+      "name": "Lekha",
+      "imageId": "169",
+      "coin": "8050",
+      "rank": 45
+    },
+    {
+      "id": 216,
+      "name": "Guest408",
+      "imageId": "17",
+      "coin": "7950",
+      "rank": 46
+    },
+    {
+      "id": 317,
+      "name": "Sonu",
+      "imageId": "1",
+      "coin": "7700",
+      "rank": 47
+    },
+    {
+      "id": 308,
+      "name": "Priya",
+      "imageId": "2",
+      "coin": "7650",
+      "rank": 48
+    },
+    {
+      "id": 594,
+      "name": "Guest2673",
+      "imageId": "5",
+      "coin": "7550",
+      "rank": 49
+    },
+    {
+      "id": 279,
+      "name": "Neha",
+      "imageId": "1",
+      "coin": "7400",
+      "rank": 50
+    }
+  ],
+  "serverTime": "2020-07-13 08:59:41 +00:00"
+}
